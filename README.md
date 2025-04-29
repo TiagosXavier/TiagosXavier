@@ -1,8 +1,11 @@
-## Hi there 👋
 
+## 👋 Hello! I'm Tiago Xavier
 
+🎯 QA Engineer focused on manual and automated testing. Experience in development with React and Angular, as well as unit testing with Jest.
 
-- 🔭 I’m currently working as a QA Engineer
+📍 Based in Campinas-SP, Brazil.
+
+💼 Currently working at Anheuser-Busch InBev.
 
   <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/playwright/playwright-original.svg" />
