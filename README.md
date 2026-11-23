@@ -5,7 +5,6 @@
 
 📍 Based in Campinas-SP, Brazil.
 
-💼 Currently working at EZ Home Search.
 
   <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/playwright/playwright-original.svg" />
